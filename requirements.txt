@@ -1,0 +1,13 @@
+```text
+apache-airflow
+apache-airflow-providers-mysql
+pandas
+numpy
+requests
+pygsheets
+google-auth
+apache-airflow-providers-fab
+pymysql
+apache-airflow-providers-mysql==6.3.3
+apache-airflow-providers-http --upgrade
+```
